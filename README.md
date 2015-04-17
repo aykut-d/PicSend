@@ -1,4 +1,2 @@
-# hello-world
-First repository on GitHub
-
-This is the where I will put some of my personal development work.
+# PicSend
+PicSend is a sample app. This webpage is to show how I would create a homepage for an iOS app.
